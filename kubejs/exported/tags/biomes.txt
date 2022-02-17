@@ -1,0 +1,7 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 15, 2022, 5:29:32 PM
+
+#c:soul_sand_valleys
+- minecraft:soul_sand_valley
+
+#requiem:derelict_obelisk_locations
+- #c:soul_sand_valleys

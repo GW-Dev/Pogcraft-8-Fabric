@@ -1,0 +1,19 @@
+[18:42:15] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[18:42:15] [INFO ] Loaded script server_scripts:script.js in 0.006 s
+[18:42:15] [INFO ] Loaded 1/1 KubeJS server scripts in 0.012 s
+[18:42:15] [INFO ] Scripts loaded
+[18:42:15] [INFO ] Scanning recipes...
+[18:42:15] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[18:42:15] [INFO ] [game_events] Found 2 tags, added 0 objects, removed 0 objects
+[18:42:15] [INFO ] [fluids] Found 9 tags, added 0 objects, removed 0 objects
+[18:42:15] [INFO ] [blocks] Found 604 tags, added 0 objects, removed 0 objects
+[18:42:15] [INFO ] [items] Found 1146 tags, added 0 objects, removed 0 objects
+[18:42:16] [WARN ] Failed to parse recipe 'techreborn:grinder/cincinnasite_ore[techreborn:grinder]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: techreborn:grinder
+[18:42:16] [WARN ] Failed to parse recipe 'techreborn:grinder/nether_ruby_ore[techreborn:grinder]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: techreborn:grinder
+[18:42:16] [WARN ] Failed to parse recipe 'techreborn:grinder/nether_lapis_ore[techreborn:grinder]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: techreborn:grinder
+[18:42:16] [INFO ] Found 7184 recipes and 3 failed recipes in 187.1 ms
+[18:42:16] [INFO ] Posted recipe events in 1.088 ms
+[18:42:16] [INFO ] Modified & removed recipes in 96.02 ms
+[18:42:16] [INFO ] Added recipes in 802.6 μs
+[18:42:16] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[18:42:17] [INFO ] [biomes] Found 2 tags, added 0 objects, removed 0 objects
