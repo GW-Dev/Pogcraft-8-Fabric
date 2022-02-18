@@ -66,6 +66,20 @@
         "indrev:transportation/energy"
       ],
       "completedManualQuests": []
+    },
+    "spectrum:manual": {
+      "viewedEntries": [
+        "spectrum:general/intro",
+        "spectrum:general/shards",
+        "spectrum:general/pedestal"
+      ],
+      "bookmarks": [],
+      "history": [
+        "spectrum:general/pedestal",
+        "spectrum:general/shards",
+        "spectrum:general/intro"
+      ],
+      "completedManualQuests": []
     }
   }
 }
