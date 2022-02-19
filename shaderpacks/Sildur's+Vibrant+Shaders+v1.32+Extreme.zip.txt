@@ -1,0 +1,9 @@
+#Sat Feb 19 12:08:24 CST 2022
+raytracedShadows=true
+Volumetric_Lighting=true
+morningFog=true
+Lens_Flares=true
+polishedRefl=true
+Moonlight=0.006
+Adaptive_sharpening=true
+nMap=2

@@ -1,6 +1,0 @@
-#6F6 minecraft:badlands
-#05B minecraft:bamboo_jungle
-#008 minecraft:desert
-#4B0 minecraft:jungle
-#5FF minecraft:river
-#1C9 minecraft:wooded_badlands

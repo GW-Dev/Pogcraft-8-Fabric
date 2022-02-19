@@ -1,0 +1,9 @@
+#Sat Feb 19 12:04:39 CST 2022
+bloom_strength=1.0
+raytracedShadows=true
+morningFog=true
+Lens_Flares=true
+polishedRefl=true
+Adaptive_sharpening=true
+nMap=2
+Godrays=true
