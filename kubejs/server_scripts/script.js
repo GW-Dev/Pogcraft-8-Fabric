@@ -9,6 +9,15 @@ console.info('Hello, World! (You will see this line every time server resources 
 
 onEvent('recipes', event => {
 	// Change recipes here
+	event.remove({output: 'chisel:chisel'}),
+	event.shaped('chisel:chisel', [
+		'III',
+		' I ',
+		' S '
+	  ], {
+		S: 'minecraft:stick',
+		I: '#c:iron_ingots'
+	  })
 })
 
 onEvent('item.tags', event => {
