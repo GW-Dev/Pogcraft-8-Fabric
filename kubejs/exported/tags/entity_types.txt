@@ -1,0 +1,512 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 15, 2022, 5:29:31 PM
+
+#besmirchment:pure_souls
+- minecraft:player
+- minecraft:villager
+
+#the_aether:condition_immunities/venom
+- the_aether:cockatrice
+- the_aether:aechor_plant
+- the_aether:purple_swet
+
+#dml-refabricated:end_mobs
+- minecraft:enderman
+- minecraft:shulker
+- minecraft:endermite
+
+#requiem:behavior/immovable
+- minecraft:shulker
+- biomemakeover:stone_golem?
+
+#requiem:possession/possessables
+- #requiem:possession/soulless
+- requiem:cured_piglin
+- requiem:cured_piglin_brute
+- requiem:cured_villager
+- betterend:shadow_walker?
+
+#requiem:mushroom_folk
+- biomemakeover:mushroom_trader?
+
+#the_aether:condition_immunities/abstentine_toxicity
+- the_aether:cockatrice
+- the_aether:aechor_plant
+- the_aether:purple_swet
+
+#requiem:inventory/inventory_carriers
+- #requiem:humans
+- #requiem:humanoid_zombies
+- #requiem:humanoid_skeletons
+- minecraft:piglin
+- minecraft:enderman
+- requiem:cured_piglin
+- artifacts:mimic?
+- adventurez:orc?
+
+#requiem:golems
+- bewitchment:demon
+- minecraft:iron_golem
+- minecraft:snow_golem
+- minecraft:shulker
+- biomemakeover:stone_golem?
+- snowmercy:mister_snuggles?
+- snowmercy:mister_chill_snuggles?
+- snowmercy:aftermarket_snowman?
+- snowmercy:ice_mortar?
+- snowmercy:sawman?
+- golemsgalore:anti_creeper_golem?
+- golemsgalore:diamond_golem?
+- golemsgalore:diamond_laser_golem?
+- golemsgalore:golden_golem?
+- golemsgalore:hay_golem?
+- golemsgalore:laser_golem?
+- golemsgalore:netherite_golem?
+- golemsgalore:obsidian_golem?
+- golemsgalore:quartz_golem?
+
+#requiem:zombies
+- #requiem:humanoid_zombies
+- minecraft:zombie_horse
+
+#dml-refabricated:zombie_mobs
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:drowned
+- minecraft:husk
+- minecraft:zoglin
+- minecraft:zombified_piglin
+
+#requiem:transformation/replaceable_skeletons
+- minecraft:wither_skeleton
+
+#requiem:vision/hemeralopes
+- #requiem:undead
+
+#requiem:undead
+- #requiem:skeletons
+- #requiem:zombies
+- minecraft:phantom
+- minecraft:wither
+- minecraft:zoglin
+
+#dml-refabricated:nether_mobs
+- minecraft:wither_skeleton
+- minecraft:blaze
+- minecraft:ghast
+- minecraft:magma_cube
+- minecraft:hoglin
+- minecraft:zoglin
+- minecraft:piglin
+- minecraft:zombified_piglin
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+
+#farmersdelight:dog_food_users
+- minecraft:wolf
+
+#requiem:possession/soul_capture_blacklist
+- #requiem:bosses
+- #requiem:ghosts
+- minecraft:player
+- requiem:mortician
+
+#requiem:inventory/supercrafters
+- #c:villagers
+- minecraft:piglin
+- requiem:cured_piglin
+
+#requiem:piglins
+- #c:piglins
+
+#besmirchment:illegal_familiar
+- minecraft:player
+- #bewitchment:taglock_blacklist
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#requiem:vision/tetrachromats
+- minecraft:axolotl
+- minecraft:chicken
+- minecraft:parrot
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#dml-refabricated:ocean_mobs
+- minecraft:guardian
+- minecraft:drowned
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+- bewitchment:silver_arrow
+
+#bewitchment:taglock_blacklist
+- #c:bosses
+
+#dml-refabricated:overworld_mobs
+- minecraft:creeper
+- minecraft:enderman
+- minecraft:skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:witch
+- minecraft:spider
+
+#c:villagers
+- minecraft:villager
+- requiem:cured_villager
+
+#dml-refabricated:slimy_mobs
+- minecraft:slime
+- minecraft:magma_cube
+
+#requiem:possession/soulless
+- #requiem:golems
+- #requiem:undead
+
+#requiem:villagers
+- #c:villagers
+- minecraft:wandering_trader
+
+#c:illagers
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:vindicator
+
+#requiem:possession/frictionless_hosts
+- #requiem:behavior/immovable
+- #requiem:golems
+
+#requiem:illagers
+- #c:illagers
+- biomemakeover:cowboy?
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray
+- minecraft:polar_bear
+- minecraft:snow_golem
+- minecraft:wither
+
+#requiem:transformation/skeletonizable
+- #requiem:humanoid_zombies
+- #requiem:humanoid_skeletons
+- #requiem:humans
+- #requiem:piglins
+
+#requiem:inventory/hotbar_carriers
+
+#c:piglins
+- minecraft:piglin
+- minecraft:piglin_brute
+- requiem:cured_piglin
+- requiem:cured_piglin_brute
+
+#requiem:witches
+- #c:witches
+
+#requiem:behavior/regular_eaters
+- #requiem:piglins
+- #requiem:humans
+
+#dml-refabricated:illager_mobs
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+
+#requiem:possession_blacklist
+- bewitchment:leonard
+- bewitchment:baphomet
+- bewitchment:lilith
+- bewitchment:herne
+
+#c:bosses
+- minecraft:ender_dragon
+- minecraft:wither
+- bewitchment:leonard
+- bewitchment:baphomet
+- bewitchment:lilith
+- bewitchment:herne
+- minecraft:wither
+- minecraft:ender_dragon
+
+#farmersdelight:horse_feed_users
+- minecraft:horse
+- minecraft:skeleton_horse
+- minecraft:zombie_horse
+- minecraft:donkey
+- minecraft:mule
+- minecraft:llama
+
+#requiem:behavior/regular_sleepers
+- #requiem:villagers
+- minecraft:fox
+- minecraft:cat
+
+#requiem:inventory/armor_users
+- #requiem:humanoid_zombies
+- #requiem:humanoid_skeletons
+- minecraft:piglin
+- minecraft:villager
+- minecraft:pillager
+- requiem:cured_piglin
+- mobz:dwarf_entity?
+- mobz:friend_entity?
+- mobz:knight_entity?
+- mobz:knight2_entity?
+- mobz:knight3_entity?
+- mobz:knight4_entity?
+- mobz:knight5_entity?
+
+#requiem:humanoid_zombies
+- minecraft:drowned
+- minecraft:giant
+- minecraft:husk
+- minecraft:zombie
+- minecraft:zombified_piglin
+- minecraft:zombie_villager
+- mobz:enderzombie_entity?
+- mobz:tank_entity?
+- mobz:armored_entity?
+- mobz:smallzombie_entity?
+- mobz:fast_entity?
+- biomemakeover:decayed?
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:cod
+- minecraft:squid
+- minecraft:glow_squid
+
+#requiem:villager_folk
+- #requiem:illagers
+- #requiem:villagers
+- #requiem:witches
+- #requiem:mushroom_folk
+
+#the_aether:swet_transformers/blue
+
+#requiem:inventory/armor_banned
+- minecraft:piglin_brute
+- requiem:cured_piglin_brute
+- adventurez:wither_puppet?
+
+#requiem:bosses
+- #c:bosses
+- mobz:boss_entity?
+- mobz:bigboss_entity?
+- mobz:test_entity?
+- mobz:pillagerboss_entity?
+- adventurez:the_eye?
+- hugetater:potato?
+- battletowers:tower_guard?
+- bosses_of_mass_destruction:lich?
+- bosses_of_mass_destruction:obsidilith?
+- bosses_of_mass_destruction:gauntlet?
+- lint:king_tater?
+- lint:i509vcb?
+- terrarianslimes:king_slime?
+- intotheomega:enigma_king?
+- bewitchment:baphomet?
+- bewitchment:herne?
+- bewitchment:leonard?
+- bewitchment:lilith?
+
+#requiem:humans
+- bewitchment:vampire
+- bewitchment:werewolf
+- #requiem:villager_folk
+- mobz:archer_entity?
+- mobz:archer2_entity?
+- mobz:dwarf_entity?
+- mobz:fulliron_entity?
+- mobz:friend_entity?
+- mobz:knight_entity?
+- mobz:knight3_entity?
+- mobz:knight2_entity?
+- mobz:knight4_entity?
+- mobz:knight5_entity?
+- mobz:mage_entity?
+- mobz:mage2_entity?
+- mobz:islandking_entity?
+- mobz:islandknightspecial_entity?
+- mobz:islandknightspecial2_entity?
+- mobz:islandknightnormal_entity?
+- mobz:islandknightspecial2_entity?
+- mobz:illusioner_entity?
+- hwg:merc?
+- hwg:spy?
+
+#requiem:possession/possession_blacklist
+- #requiem:bosses
+- #requiem:ghosts
+- requiem:mortician
+
+#requiem:humanoid_skeletons
+- #minecraft:skeletons
+- betternether:jungle_skeleton?
+- mobz:skeli1_entity?
+- mobz:skeli2_entity?
+- mobz:skeli3_entity?
+- mobz:skeli4_entity?
+- adventurez:soul_reaper?
+- adventurez:wither_puppet?
+- adventurez:skeleton_vanguard?
+- adventurez:summoner?
+- adventurez:necromancer?
+
+#requiem:behavior/arrow_generators
+- biomemakeover:stone_golem?
+
+#the_aether:swet_transformers/transformers
+- #the_aether:swet_transformers/blue
+- #the_aether:swet_transformers/golden
+- #the_aether:swet_transformers/purple
+- #the_aether:swet_transformers/vermilion
+
+#dml-refabricated:skeleton_mobs
+- minecraft:skeleton
+- minecraft:wither_skeleton
+- minecraft:stray
+
+#requiem:inventory/item_users
+- minecraft:enderman
+- minecraft:panda
+- minecraft:dolphin
+- minecraft:fox
+- minecraft:vex
+- #requiem:humanoid_zombies
+- #requiem:humanoid_skeletons
+- #requiem:humans
+- #requiem:piglins
+- betterend:shadow_walker?
+- biomemakeover:stone_golem?
+- thehallow:mummy?
+- hwg:technodemon_greater_1?
+- hwg:technodemon_lesser_1?
+- artifacts:mimic?
+- adventurez:orc?
+
+#requiem:ghosts
+- bewitchment:ghost?
+- biomemakeover:ghost?
+
+#the_aether:swet_transformers/golden
+
+#bewitchment:encounter_fortune
+- minecraft:husk
+- minecraft:stray
+- minecraft:witch
+- minecraft:vindicator
+- minecraft:blaze
+- bewitchment:hellhound
+
+#c:witches
+- minecraft:witch
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+
+#bewitchment:insanity_blacklist
+- minecraft:creeper
+- minecraft:witch
+- minecraft:ravager
+
+#the_aether:swet_transformers/vermilion
+- minecraft:magma_cube
+
+#requiem:vision/dichromats
+- minecraft:bat
+- minecraft:cat
+- minecraft:cow
+- minecraft:donkey
+- minecraft:fox
+- minecraft:goat
+- minecraft:llama
+- minecraft:mule
+- minecraft:ocelot
+- minecraft:panda
+- minecraft:pig
+- minecraft:polar_bear
+- minecraft:rabbit
+- minecraft:sheep
+- minecraft:wolf
+
+#the_aether:swets
+- the_aether:white_swet
+- the_aether:blue_swet
+- the_aether:purple_swet
+- the_aether:golden_swet
+
+#the_aether:swet_transformers/purple
+- the_aether:cockatrice
+- the_aether:aechor_plant
+
+#c:horses
+- minecraft:horse
+- minecraft:skeleton_horse
+- minecraft:zombie_horse
+- minecraft:donkey
+- minecraft:mule
+
+#bewitchment:has_blood
+- minecraft:player
+- minecraft:villager
+- minecraft:wandering_trader
+- minecraft:witch
+- minecraft:pillager
+- minecraft:vindicator
+- minecraft:evoker
+- minecraft:illusioner
+- minecraft:piglin
+- minecraft:piglin_brute
+- bewitchment:vampire
+
+#dml-refabricated:ghost_mobs
+- minecraft:ghast
+- minecraft:phantom
+- minecraft:vex
+
+#requiem:vision/night_eyed
+- #requiem:undead
+- minecraft:glow_squid
+- minecraft:bat
+
+#requiem:skeletons
+- #requiem:humanoid_skeletons
+- minecraft:skeleton_horse

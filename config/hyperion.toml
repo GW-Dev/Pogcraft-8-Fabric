@@ -1,0 +1,8 @@
+{
+  //Mokele Mbembe spawning weight. Default is 1.
+  "mbembeWeight": 1,
+  //The smallest group size Mokeles can spawn in. Default is 1.
+  "mbembeMin": 1,
+  //The largest group size Mokeles can spawn in. Default is 1.
+  "mbembeMax": 1
+}

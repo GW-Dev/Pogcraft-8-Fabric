@@ -1,0 +1,22 @@
+[06:47:46] [INFO ] Hello, World! (You will see this line every time server resources reload)
+[06:47:46] [INFO ] Loaded script server_scripts:script.js in 0.003 s
+[06:47:46] [INFO ] Loaded 1/1 KubeJS server scripts in 0.007 s
+[06:47:46] [INFO ] Scripts loaded
+[06:47:46] [INFO ] Scanning recipes...
+[06:47:46] [INFO ] [game_events] Found 2 tags, added 0 objects, removed 0 objects
+[06:47:46] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[06:47:46] [INFO ] [fluids] Found 11 tags, added 0 objects, removed 0 objects
+[06:47:46] [INFO ] [entity_types] Found 82 tags, added 0 objects, removed 0 objects
+[06:47:46] [INFO ] [blocks] Found 676 tags, added 0 objects, removed 0 objects
+[06:47:47] [INFO ] [items] Found 1183 tags, added 0 objects, removed 0 objects
+[06:47:47] [WARN ] Failed to parse recipe 'techreborn:grinder/cincinnasite_ore[techreborn:grinder]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: techreborn:grinder
+[06:47:47] [WARN ] Failed to parse recipe 'yigd:tp_scroll[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'yigd:tp_scroll'
+[06:47:47] [WARN ] Failed to parse recipe yigd:tp_scroll[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'yigd:tp_scroll'
+[06:47:47] [WARN ] Failed to parse recipe 'techreborn:grinder/nether_ruby_ore[techreborn:grinder]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: techreborn:grinder
+[06:47:47] [WARN ] Failed to parse recipe 'techreborn:grinder/nether_lapis_ore[techreborn:grinder]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: techreborn:grinder
+[06:47:47] [INFO ] Found 8031 recipes and 3 failed recipes in 159.0 ms
+[06:47:47] [INFO ] Posted recipe events in 609.7 μs
+[06:47:47] [INFO ] Modified & removed recipes in 63.81 ms
+[06:47:47] [INFO ] Added recipes in 286.1 μs
+[06:47:47] [INFO ] Added 0 recipes, removed 0 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes
+[06:47:48] [INFO ] [biomes] Found 2 tags, added 0 objects, removed 0 objects
