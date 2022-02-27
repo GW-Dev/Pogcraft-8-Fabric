@@ -37,7 +37,12 @@
     "colors": {
       "megane:default": 855385,
       "modern_industrialization:steam": 15658734,
-      "minecraft:water": 4159204
+      "minecraft:water": 4159204,
+      "modern_industrialization:creosote": 6512720,
+      "modern_industrialization:lubricant": 16761856,
+      "modern_industrialization:raw_synthetic_oil": 4671296,
+      "modern_industrialization:synthetic_oil": 1710618,
+      "modern_industrialization:synthetic_rubber": 1710618
     },
     "blacklist": []
   },

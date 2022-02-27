@@ -39,19 +39,19 @@
       ],
       "bookmarks": [],
       "history": [
-        "modern_industrialization:lategame/replicator",
-        "modern_industrialization:electric_age/basic_machines",
-        "modern_industrialization:electric_age/making_cables",
-        "modern_industrialization:midgame/nuclear_reactor",
-        "modern_industrialization:midgame/upgrades",
-        "modern_industrialization:midgame/stainless_steel",
-        "modern_industrialization:electric_age/jetpack",
-        "modern_industrialization:electric_age/electric_quarry",
-        "modern_industrialization:electric_age/advanced_machines",
-        "modern_industrialization:electric_age/ebf",
-        "modern_industrialization:electric_age/electricity",
         "modern_industrialization:electric_age/large_steam_boiler",
-        "modern_industrialization:electric_age/oil_processing"
+        "modern_industrialization:electric_age/advanced_machines",
+        "modern_industrialization:electric_age/basic_machines",
+        "modern_industrialization:electric_age/electric_quarry",
+        "modern_industrialization:electric_age/electricity",
+        "modern_industrialization:electric_age/large_tank",
+        "modern_industrialization:steam_age/quarry",
+        "modern_industrialization:electric_age/making_cables",
+        "modern_industrialization:steam_age/coke_oven",
+        "modern_industrialization:steam_age/steel_machines",
+        "modern_industrialization:steam_age/steel",
+        "modern_industrialization:lategame/replicator",
+        "modern_industrialization:midgame/nuclear_reactor"
       ],
       "completedManualQuests": []
     },
@@ -71,13 +71,19 @@
       "viewedEntries": [
         "spectrum:general/intro",
         "spectrum:general/shards",
-        "spectrum:general/pedestal"
+        "spectrum:general/pedestal",
+        "spectrum:resources/resonating_ender",
+        "spectrum:resources/clover",
+        "spectrum:resources/mermaids_brush"
       ],
       "bookmarks": [],
       "history": [
         "spectrum:general/pedestal",
-        "spectrum:general/shards",
-        "spectrum:general/intro"
+        "spectrum:resources/mermaids_brush",
+        "spectrum:resources/clover",
+        "spectrum:resources/resonating_ender",
+        "spectrum:general/intro",
+        "spectrum:general/shards"
       ],
       "completedManualQuests": []
     },
