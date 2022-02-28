@@ -91,7 +91,7 @@ onEvent('recipes', event => {
 		 "item" : ("spectrum:topaz_block"),
 		 "amount": 1
 		}
-	  }).id('p8:4')
+	  }).id('p8:5')
 })
 
 onEvent('item.tags', event => {
