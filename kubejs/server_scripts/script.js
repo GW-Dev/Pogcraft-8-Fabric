@@ -34,7 +34,7 @@ onEvent('tags.items', event => {
 onEvent('recipes', event => {
 	// Change recipes here
 	event.replaceInput({}, 'farmersdelight:fried_egg', '#fabric:cooked_eggs')
-
+	event.replaceOutput({}, 'farmersdelight:tree_bark', '2x farmersdelight:tree_bark')
 	event.replaceInput({}, 'bewitchment:raw_silver', '#c:raw_silver_ores')
 	event.replaceOutput({}, 'bewitchment:silver_ingot', '#c:silver_ingots')
 	event.replaceOutput({}, 'bewitchment:raw_silver', '#c:raw_silver_ores')
@@ -45,7 +45,17 @@ onEvent('recipes', event => {
 	event.replaceOutput({}, 'modern_industrialization:raw_silver', '#c:raw_silver_ores')
 	event.replaceInput({}, 'bewitchment:silver_ingot', '#c:silver_ingots')
 
-
+	event.custom({
+		"type": "botania:mana_infusion",
+		"input": {
+		  "item": "farmersdelight:tree_bark"
+		},
+		"output": {
+		  "item": "farmersdelight:tree_bark",
+		  "count": 2
+		},
+		"mana": 1000,
+	  })
 
 	event.remove({output: 'farmersdelight:fried_egg'})
 	event.remove({output: 'chisel:chisel'}),
