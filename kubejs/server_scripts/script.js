@@ -29,6 +29,7 @@ onEvent('tags.items', event => {
 	event.add('fabric:tools/axes', 'ae2:certus_quartz_axe')
 	event.add('fabric:tools/axes', 'ae2:nether_quartz_axe')
 	event.add('fabric:cooked_eggs', 'additionaladditions:fried_egg')
+	event.add('c:raw_silver_ores', 'bewitchment:raw_silver')
   })
 
 onEvent('recipes', event => {
