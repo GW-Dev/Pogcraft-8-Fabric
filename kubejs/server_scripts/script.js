@@ -60,6 +60,7 @@ onEvent('recipes', event => {
 
 	event.remove({output: 'farmersdelight:fried_egg'})
 	event.remove({output: 'chisel:chisel'}),
+	event.remove({output: 'the_aether:incubator'}),
 	event.shaped('chisel:chisel', [
 		'III',
 		' I ',
@@ -68,12 +69,23 @@ onEvent('recipes', event => {
 		S: 'minecraft:stick',
 		I: '#c:iron_ingots'
 	})
+
+	event.shaped('the_aether:incubator', [
+		'WHW',
+		' M ',
+		'   '
+	  ], {
+		W: '#minecraft:planks',
+		H: 'minecraft:hay_block',
+		M: 'minecraft:magma_block'
+	})
 	
 	event.shapeless('2x farmersdelight:raw_pasta', [
 		'4x minecraft:wheat',
 		Item.of('minecraft:potion', {Potion: "minecraft:water"})
 	]).replaceIngredient({item: Item.of('minecraft:potion', {Potion: "minecraft:water"})}, 'minecraft:glass_bottle'),
 	
+
 	event.custom({
 		"type": "modern_industrialization:macerator",
 		"item_outputs": [
@@ -170,21 +182,6 @@ onEvent('recipes', event => {
 		 "amount": 1
 		}
 	  }).id('p8:7')
-
-	  event.custom({
-		"type": "modern_industrialization:macerator",
-		"item_outputs": {
-		"item":"modern_industrialization:silver_dust",
-		"amount": 1,
-		"probability": 2
-		},
-		"duration": 100,
-		"eu": 2,
-		"item_inputs": {
-		 "item" : "bewitchment:raw_silver",
-		 "amount": 1
-		}
-	  }).id('p8:8')
 })
 
 onEvent('item.tags', event => {
