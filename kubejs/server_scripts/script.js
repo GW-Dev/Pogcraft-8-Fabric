@@ -49,7 +49,8 @@ onEvent('recipes', event => {
 	event.custom({
 		"type": "botania:mana_infusion",
 		"input": {
-		  "item": "farmersdelight:tree_bark"
+		  "item": "farmersdelight:tree_bark",
+		  
 		},
 		"output": {
 		  "item": "farmersdelight:tree_bark",
@@ -85,6 +86,7 @@ onEvent('recipes', event => {
 		Item.of('minecraft:potion', {Potion: "minecraft:water"})
 	]).replaceIngredient({item: Item.of('minecraft:potion', {Potion: "minecraft:water"})}, 'minecraft:glass_bottle'),
 	
+	event.smelting('minecraft:copper_block', 'minecraft:cut_copper')
 
 	event.custom({
 		"type": "modern_industrialization:macerator",
